@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bismaya713
-- 👀 I’m interested in web devlopement, data analysis
+- 👀 I’m interested in Backend devlopement in Python- Django & FastAPI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- bismaya713@gmail.com
